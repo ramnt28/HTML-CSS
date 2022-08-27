@@ -1,0 +1,96 @@
+/* p {
+  text-align: end;
+}
+
+.heading {
+  background-color: blue;
+}
+
+#heading2 {
+  background-color: aqua;
+}
+
+.box {
+  border: 10px dotted rgb(56, 17, 17);
+  padding: 40px;
+  margin: 20px;
+} */
+
+/* Buttons Styling */
+
+button {
+  background-color: crimson;
+  padding: 10px 60px;
+  margin: 30px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  color: white;
+}
+
+button:hover {
+  background-color: white;
+  color: crimson;
+  border: 3px solid crimson;
+}
+
+/* NavBar Styling */
+
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: crimson;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 15px 20px;
+  color: white;
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+} */
+
+/* Forms Styling */
+/* input {
+  width: 100%;
+  background-color: #cfd2cf;
+  padding: 10px 20px;
+  border: none;
+  margin: 20px 0px;
+}
+
+input:focus {
+  background-color: #a2b5bb;
+} */
+
+/* Table Styling */
+/* 
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin-top: 4%;
+}
+
+td,
+th {
+  border: 2px solid black;
+  padding: 10px 20px;
+}
+
+th {
+  background-color: crimson;
+  color: white;
+}
+
+tr:nth-child(odd) {
+  background-color: #cfd2cf;
+} */
